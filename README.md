@@ -49,6 +49,6 @@ The Swing Maze Game project follows the Clean Architecture principles, separatin
 3. Use the arrow keys to navigate through the maze and reach the exit.
 4. Press 'Q' to exit the game.
 
-## Contributing
+Used JUnit.jupiter testing (might need to download) and JDK 11 used. 
 
 
